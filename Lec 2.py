@@ -42,6 +42,3 @@ this is a regional comment
 
 # print(my_float/2)
 
-my_str = hello_world
-
-print(my_str.upper("_"))
