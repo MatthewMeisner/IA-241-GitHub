@@ -50,3 +50,10 @@ print('c' in my_list)
 
 print(len(my_list))
 #length of the list
+
+my_letters = ['a','b','b','c']
+print(set(my_letters))
+
+my_unique_letters = set(my_letters)
+print(my_unique_letters)
+
