@@ -20,7 +20,7 @@ print(str_list[2])
 
 #print( len(set(my_list)))
 
-#3.6
+#3.6 find amount of words in string
 og_str = 'this is my third python lab'
 new_str = og_str.split()
 print(len(new_str))
@@ -31,7 +31,7 @@ num_list.sort()
 print(num_list[0])
 print(num_list[-1])
 
-#3.8
+#3.8 edit nested list
 game_board = [[0,0,0],[0,0,0],[0,0,0]]
 game_board[1][1] = [1]
 print(game_board)
